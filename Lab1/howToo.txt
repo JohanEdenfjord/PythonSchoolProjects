@@ -1,0 +1,6 @@
+Easy to use in CMD or what your os has for relevant commandprompt
+
+python topmost.py eng_stopwords.txt textfile.txt 20
+
+this will give you a list of the 20 topmost words used in textfile.txt and the number of times they occure in said file. 
+all the stopwords will not be counted!
